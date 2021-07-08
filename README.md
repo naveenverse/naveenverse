@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveenverse
-- 👀 I’m interested in Bioinformatics | Artificial Intelligence | Tech
-- 🌱 I’m currently learning Computational Drug Discovery | Neuroinformatics
+- 👀 I’m interested in Bioinformatics | Artificial Intelligence | Pharmacology
+- 🌱 I’m currently learning Computational Drug Discovery | Blockchain Technology
 - 💞️ I’m looking to collaborate on Drug Research based on Neural Nets | Data analysis on biological datasets
 
 <!---
