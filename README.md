@@ -11,7 +11,7 @@
 - 🖋️ I pen my thoughts on my [blog](http://naveenverse.medium.com)  
   
 
-- 💬Always up for a chat about Drug research/AI in medicine/Cryptocurrencies  
+- 💬Always up for a chat about AI in Medicine/Quantum Physics/Cryptocurrencies  
   
 
 - 🍔 Want a break? Check out my website!  
