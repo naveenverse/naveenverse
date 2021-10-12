@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Hello👋 I'm Naveen Kumar, a passionate Data scientist</div>  
   
@@ -70,7 +66,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31prazsv5epuowr34mmdvtinxsri&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
 <br/>  
 
@@ -81,5 +76,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
