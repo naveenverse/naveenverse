@@ -1,5 +1,5 @@
 
-### <div align="center">Hello👋 I'm Naveen Kumar, a passionate Data scientist</div>  
+### <div align="center">Hello👋 I'm Naveen Kumar, a contemplative Data scientist, inspired by tough problems</div>  
   
 
 - 🔭 I’m currently working on [COVID19_detection](https://github.com/naveenverse/COVID-19_detection)  
@@ -14,10 +14,10 @@
 - 💬Always up for a chat about AI in Medicine/Quantum Physics/Cryptocurrencies  
   
 
-- 🍔 Want a break? Check out my website!  
+- 🍔 Want a break? Check out my [website](http://naveenverse.github.io/databytes/)!  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: My favourite debugging tool is a cup of coffee.  
   
 
 <br/>  
