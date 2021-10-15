@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [COVID19_detection](https://github.com/naveenverse/COVID-19_detection)  
   
 
-- 🌱 I’m currently doing learning Generative deep learning, RNA interference. 
+- 🌱 I’m currently learning Generative deep learning, RNA interference. 
   
 
 - 🖋️ I pen my thoughts on my [blog](http://naveenverse.medium.com)  
