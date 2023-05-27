@@ -2,7 +2,7 @@
 ### <div align="center">Hello👋 I'm Naveen Kumar, a contemplative Data scientist, inspired by tough problems</div>  
   
 
-- 🔭 I’m currently working on [COVID19_detection](https://github.com/naveenverse/COVID-19_detection)  
+- 🔭 I’m a Bioinformatician in Thermo Fisher Scientific.
   
 
 - 🌱 I’m currently learning Generative deep learning, RNA interference. 
